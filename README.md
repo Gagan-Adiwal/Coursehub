@@ -1,12 +1,44 @@
-# React + Vite
+# 🎓 CourseHub – Online Course Selling Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Project Overview
+**CourseHub** is a fully responsive **course-selling platform** built with **React.js** and **Tailwind CSS**.  
+It allows learners to explore courses, enroll, and make secure payments using **Razorpay integration**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 📱 **Fully Responsive UI** (Mobile, Tablet & Desktop)
+- 🎨 **Modern Design** with TailwindCSS
+- 🧭 **Navbar & Footer** with smooth navigation
+- 🏠 **Home Page** with Hero & Course Sections
+- 📚 **Courses Page** displaying multiple courses
+- ℹ️ **About Page** with team & mission info
+- 📩 **Contact Page** with form integration
+- 💳 **Razorpay Payment Integration** for course enrollment
+- ⚡ **Fast & Optimized** with React + Vite
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Icons:** Lucide-react, React-icons  
+- **Payments:** Razorpay Integration  
+- **Deployment:** Vercel / Netlify / Render  
+
+---
+## **🌍 Deployment**
+You can deploy this project on:
+- [Vercel](https://vercel.com)  
+- [Netlify](https://netlify.com)  
+- [Render](https://render.com)  
+
+---
+
+## **👨‍💻 Contributors**
+- **Gagan Adiwal** – Developer & Designer  
+
+---
+
+## **📜 License**
+This project is licensed under the **MIT License**.  
+Feel free to **use, and distribute ⭐**  
