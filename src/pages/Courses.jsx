@@ -22,7 +22,7 @@ const courses = [
     title: "Full-Stack Development (MERN)",
     desc: "Learn to build complete web apps using MongoDB, Express, React, and Node.js.",
     icon: <FaLaptopCode className="text-green-600 text-5xl mx-auto mb-4" />,
-    img: "https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350",
+    img: "https://mern.uz/logo.png",
   },
   {
     id: 4,
@@ -88,3 +88,4 @@ const Courses = () => {
 };
 
 export default Courses;
+
